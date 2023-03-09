@@ -36,11 +36,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JADPA-15\\source\\repos\\Programacion-2\\BibliotecaBanco\\CrearArchivo\\CrearArchivo.csproj",
-      "projectName": "CrearArchivo",
-      "projectPath": "C:\\Users\\JADPA-15\\source\\repos\\Programacion-2\\BibliotecaBanco\\CrearArchivo\\CrearArchivo.csproj",
+      "projectUniqueName": "C:\\Users\\JADPA-15\\source\\repos\\Programacion-2\\BibliotecaBanco\\LeerArchivo\\LeerArchivo.csproj",
+      "projectName": "LeerArchivo",
+      "projectPath": "C:\\Users\\JADPA-15\\source\\repos\\Programacion-2\\BibliotecaBanco\\LeerArchivo\\LeerArchivo.csproj",
       "packagesPath": "C:\\Users\\JADPA-15\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JADPA-15\\source\\repos\\Programacion-2\\BibliotecaBanco\\CrearArchivo\\obj\\",
+      "outputPath": "C:\\Users\\JADPA-15\\source\\repos\\Programacion-2\\BibliotecaBanco\\LeerArchivo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

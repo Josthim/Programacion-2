@@ -45,12 +45,14 @@
             // 
             // btnEntrar
             // 
+            this.btnEntrar.Enabled = false;
             this.btnEntrar.Location = new System.Drawing.Point(287, 295);
             this.btnEntrar.Name = "btnEntrar";
             this.btnEntrar.Size = new System.Drawing.Size(75, 23);
             this.btnEntrar.TabIndex = 17;
             this.btnEntrar.Text = "Entrar";
             this.btnEntrar.UseVisualStyleBackColor = true;
+            this.btnEntrar.Click += new System.EventHandler(this.btnEntrar_Click);
             // 
             // btnSalir
             // 
@@ -60,6 +62,7 @@
             this.btnSalir.TabIndex = 18;
             this.btnSalir.Text = "Salir";
             this.btnSalir.UseVisualStyleBackColor = true;
+            this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
             // 
             // frmCrearArchivo
             // 
@@ -71,6 +74,7 @@
             this.Controls.Add(this.btnGuardar);
             this.Name = "frmCrearArchivo";
             this.Text = "Creacion de un Archivo Secuencias";
+            this.Load += new System.EventHandler(this.frmCrearArchivo_Load);
             this.Controls.SetChildIndex(this.btnGuardar, 0);
             this.Controls.SetChildIndex(this.btnEntrar, 0);
             this.Controls.SetChildIndex(this.btnSalir, 0);

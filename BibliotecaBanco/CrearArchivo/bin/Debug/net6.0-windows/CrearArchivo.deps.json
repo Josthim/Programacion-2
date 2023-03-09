@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CrearArchivo/1.0.0": {
+        "dependencies": {
+          "BibliotecaBanco": "1.0.0"
+        },
+        "runtime": {
+          "CrearArchivo.dll": {}
+        }
+      },
+      "BibliotecaBanco/1.0.0": {
+        "runtime": {
+          "BibliotecaBanco.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CrearArchivo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaBanco/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaBanco", "BibliotecaBanco\BibliotecaBanco.csproj", "{5DB05225-BC4B-4E81-956F-5167815F8422}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaBanco", "BibliotecaBanco\BibliotecaBanco.csproj", "{5DB05225-BC4B-4E81-956F-5167815F8422}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrearArchivo", "CrearArchivo\CrearArchivo.csproj", "{F1A880A9-74CA-4265-9011-03559E412D51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrearArchivo", "CrearArchivo\CrearArchivo.csproj", "{F1A880A9-74CA-4265-9011-03559E412D51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeerArchivo", "LeerArchivo\LeerArchivo.csproj", "{AC626EF9-F2F9-4C0F-83E3-40FE2F86D37F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F1A880A9-74CA-4265-9011-03559E412D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1A880A9-74CA-4265-9011-03559E412D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1A880A9-74CA-4265-9011-03559E412D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC626EF9-F2F9-4C0F-83E3-40FE2F86D37F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC626EF9-F2F9-4C0F-83E3-40FE2F86D37F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC626EF9-F2F9-4C0F-83E3-40FE2F86D37F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC626EF9-F2F9-4C0F-83E3-40FE2F86D37F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
