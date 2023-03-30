@@ -1,0 +1,17 @@
+C:\Users\JADPA-09\Source\Repos\Concurrencia\Hilos\obj\Debug\net6.0-windows\Hilos.csproj.AssemblyReference.cache
+C:\Users\JADPA-09\Source\Repos\Concurrencia\Hilos\obj\Debug\net6.0-windows\Hilos.frmHilos.resources
+C:\Users\JADPA-09\Source\Repos\Concurrencia\Hilos\obj\Debug\net6.0-windows\Hilos.csproj.GenerateResource.cache
+C:\Users\JADPA-09\Source\Repos\Concurrencia\Hilos\obj\Debug\net6.0-windows\Hilos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-09\Source\Repos\Concurrencia\Hilos\obj\Debug\net6.0-windows\Hilos.AssemblyInfoInputs.cache
+C:\Users\JADPA-09\Source\Repos\Concurrencia\Hilos\obj\Debug\net6.0-windows\Hilos.AssemblyInfo.cs
+C:\Users\JADPA-09\Source\Repos\Concurrencia\Hilos\obj\Debug\net6.0-windows\Hilos.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-09\Source\Repos\Concurrencia\Hilos\bin\Debug\net6.0-windows\Hilos.exe
+C:\Users\JADPA-09\Source\Repos\Concurrencia\Hilos\bin\Debug\net6.0-windows\Hilos.deps.json
+C:\Users\JADPA-09\Source\Repos\Concurrencia\Hilos\bin\Debug\net6.0-windows\Hilos.runtimeconfig.json
+C:\Users\JADPA-09\Source\Repos\Concurrencia\Hilos\bin\Debug\net6.0-windows\Hilos.dll
+C:\Users\JADPA-09\Source\Repos\Concurrencia\Hilos\bin\Debug\net6.0-windows\Hilos.pdb
+C:\Users\JADPA-09\Source\Repos\Concurrencia\Hilos\obj\Debug\net6.0-windows\Hilos.dll
+C:\Users\JADPA-09\Source\Repos\Concurrencia\Hilos\obj\Debug\net6.0-windows\refint\Hilos.dll
+C:\Users\JADPA-09\Source\Repos\Concurrencia\Hilos\obj\Debug\net6.0-windows\Hilos.pdb
+C:\Users\JADPA-09\Source\Repos\Concurrencia\Hilos\obj\Debug\net6.0-windows\Hilos.genruntimeconfig.cache
+C:\Users\JADPA-09\Source\Repos\Concurrencia\Hilos\obj\Debug\net6.0-windows\ref\Hilos.dll

@@ -1,0 +1,17 @@
+C:\Users\JADPA-09\Source\Repos\Concurrencia\winThereads\obj\Debug\net6.0-windows\winThereads.csproj.AssemblyReference.cache
+C:\Users\JADPA-09\Source\Repos\Concurrencia\winThereads\obj\Debug\net6.0-windows\winThereads.frmWinThereads.resources
+C:\Users\JADPA-09\Source\Repos\Concurrencia\winThereads\obj\Debug\net6.0-windows\winThereads.csproj.GenerateResource.cache
+C:\Users\JADPA-09\Source\Repos\Concurrencia\winThereads\obj\Debug\net6.0-windows\winThereads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-09\Source\Repos\Concurrencia\winThereads\obj\Debug\net6.0-windows\winThereads.AssemblyInfoInputs.cache
+C:\Users\JADPA-09\Source\Repos\Concurrencia\winThereads\obj\Debug\net6.0-windows\winThereads.AssemblyInfo.cs
+C:\Users\JADPA-09\Source\Repos\Concurrencia\winThereads\obj\Debug\net6.0-windows\winThereads.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-09\Source\Repos\Concurrencia\winThereads\bin\Debug\net6.0-windows\winThereads.exe
+C:\Users\JADPA-09\Source\Repos\Concurrencia\winThereads\bin\Debug\net6.0-windows\winThereads.deps.json
+C:\Users\JADPA-09\Source\Repos\Concurrencia\winThereads\bin\Debug\net6.0-windows\winThereads.runtimeconfig.json
+C:\Users\JADPA-09\Source\Repos\Concurrencia\winThereads\bin\Debug\net6.0-windows\winThereads.dll
+C:\Users\JADPA-09\Source\Repos\Concurrencia\winThereads\bin\Debug\net6.0-windows\winThereads.pdb
+C:\Users\JADPA-09\Source\Repos\Concurrencia\winThereads\obj\Debug\net6.0-windows\winThereads.dll
+C:\Users\JADPA-09\Source\Repos\Concurrencia\winThereads\obj\Debug\net6.0-windows\refint\winThereads.dll
+C:\Users\JADPA-09\Source\Repos\Concurrencia\winThereads\obj\Debug\net6.0-windows\winThereads.pdb
+C:\Users\JADPA-09\Source\Repos\Concurrencia\winThereads\obj\Debug\net6.0-windows\winThereads.genruntimeconfig.cache
+C:\Users\JADPA-09\Source\Repos\Concurrencia\winThereads\obj\Debug\net6.0-windows\ref\winThereads.dll
